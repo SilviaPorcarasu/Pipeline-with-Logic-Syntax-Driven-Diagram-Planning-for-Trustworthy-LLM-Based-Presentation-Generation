@@ -9,7 +9,7 @@ Three diagram planning strategies are investigated:
 
 ## Paper
 
-The conference manuscript is available [here](paper/Pipeline_with_Logic_Syntax_Driven_Diagram_Planning_for_Trustworthy_LLM_Based_Presentation_Generation.pdf).
+The conference manuscript is available [here](Pipeline_with_Logic_Syntax_Driven_Diagram_Planning_for_Trustworthy_LLM_Based_Presentation_Generation.pdf).
 
 Publication details will be added when available
 
